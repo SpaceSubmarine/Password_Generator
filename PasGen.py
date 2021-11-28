@@ -1,4 +1,4 @@
-#importacion de depndencias
+#importacion de dependencias
 import random
 
 #valores que constituyen la contraseña
