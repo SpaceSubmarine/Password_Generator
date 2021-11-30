@@ -12,7 +12,7 @@ simbolos =",;.:-_´¨`^+*?'>¿º\<¡*%$}€#""=[]{+/"
 base = minus+mayus+numeros+simbolos
 
 #inputs
-longitud=32 #el input no puede ser mayor que la longitud de "base"
+longitud=8 #el input no puede ser mayor que la longitud de "base"
 #print(len(base))
 
 muestra = random.sample(base,longitud)
